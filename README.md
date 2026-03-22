@@ -27,5 +27,6 @@ All portraits generated via SwarmUI (Flux/flux1-schnell-fp8) — made by the sam
 | Marey (updated) 🌅 | ![Marey new](marey-new.png) |
 | Gaston 📚 | ![Gaston](gaston.png) |
 | Colette 🌿 | ![Colette](colette.png) |
+| O.C. 🤖 | ![O.C.](oc.png) |
 
-_Rockbot, O.C., Nova avatars coming soon._
+_Rockbot, Nova avatars coming soon._
